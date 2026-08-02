@@ -29,8 +29,8 @@ Python · ROS2 · YOLOv8 · ONNX Runtime · MQTT · Raspberry Pi
 
 ## Images
 
-<img width="952" height="1269" alt="image" src="https://github.com/user-attachments/assets/656bc309-edc0-47ba-9d01-8fed10c8b102" />
-The physical prototype, tested outdoors at Amrita Vishwa Vidyapeetham, Amritapuri.
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/656bc309-edc0-47ba-9d01-8fed10c8b102" />
+  The physical prototype, tested outdoors at Amrita Vishwa Vidyapeetham, Amritapuri.
 
 ---
 
